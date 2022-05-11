@@ -1,0 +1,28 @@
+{
+  "name": "mongoose-schema-document",
+  "version": "1.0.0",
+  "description": "a simple cli tool for documenting mongoDB/Mongoose Schema",
+  "main": "index.js",
+  "bin": {
+    "document": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/am101/mongoose-schema-document.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/am101/mongoose-schema-document/issues"
+  },
+  "homepage": "https://github.com/am101/mongoose-schema-document#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.2.0",
+    "conf": "^10.1.2"
+  }
+}
